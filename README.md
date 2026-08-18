@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I am Aniqa Azhar, a bachelor's student in computer science aiming to become a software engineer with a twist of AI.<br><br>🌱 Current Focus:<br>I'm currently diving deeper into full-stack web development and enhancing my knowledge in NLP/CV. I'm excited to work on projects that push the boundaries of what's possible with technology.<br>📫 Let's Connect:<br>Feel free to reach out or check out my work on [GitHub](https://github.com/Aniqa990). Connect with me on [LinkedIn](https://linkedin.com/in/aniqa-azhar)<br>
+I am Aniqa Azhar, a bachelor's graduate student in computer science aiming to become a software engineer with a twist of AI.<br><br>🌱 Current Focus:<br>I'm currently diving deeper into full-stack web development and enhancing my knowledge in NLP/CV. I'm excited to work on projects that push the boundaries of what's possible with technology.<br>📫 Let's Connect:<br>Feel free to reach out or check out my work on [GitHub](https://github.com/Aniqa990). Connect with me on [LinkedIn](https://linkedin.com/in/aniqa-azhar)<br>
 
 
 ## 🌐 Socials:
