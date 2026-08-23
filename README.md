@@ -1,7 +1,13 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=40&pause=1000&color=B81F6D&center=true&width=435&lines=Hi%2C+I+am+Aniqa!)](https://git.io/typing-svg)
 
 # 💫 About Me:
-<p>I am an AI-focused Software Engineer specializing in building scalable applications with integrated AI capabilities. I bridge the gap between traditional software development and modern AI solutions.</p><p>Beyond code, I’m constantly curious, eager to learn, and always up for building software that actually makes life easier for people.</p><br><br>📫 Let's Connect:<br>Feel free to reach out or check out my work on [GitHub](https://github.com/Aniqa990). Connect with me on [LinkedIn](https://linkedin.com/in/aniqa-azhar)<br>
+<p>I am an AI-focused Software Engineer specializing in building scalable applications with integrated AI capabilities. I bridge the gap between traditional software development and modern AI solutions.</p><p>Beyond code, I’m constantly curious, eager to learn, and always up for building software that actually makes life easier for people.</p><br>
+
+📫 Let's Connect:
+
+Feel free to reach out or check out my work on [GitHub](https://github.com/Aniqa990). Connect with me on [LinkedIn](https://linkedin.com/in/aniqa-azhar)
+
+
 
 ![](https://komarev.com/ghpvc/?username=Aniqa990&color=red&style=pixel)
 
